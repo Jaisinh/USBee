@@ -1,4 +1,10 @@
 # USBee -The BIG DADDY of pentesting tools
+
+<img width="2172" height="724" alt="ChatGPT Image Jun 20, 2026, 12_25_58 AM" src="https://github.com/user-attachments/assets/9253e067-580a-4e8f-8cb5-a52046d885d1" />
+I initially sketched the logo by hand and later used AI tools to refine and polish it into a more professional design.
+
+[Link](https://user-cdn.hackclub-assets.com/019ee13f-3206-7648-bb24-fc1554dd3182/IMG_20260620_002140339~2.jpg)
+
 FUNCITONALITIES:
 -  Keystrokes injection but with wireless caoabilites
 -  Keystroke Capture
